@@ -1,5 +1,5 @@
 package Persona;
-
+//Clase
 public class Persona {
     public String cedula;
     public String nombre;
