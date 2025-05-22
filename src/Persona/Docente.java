@@ -1,5 +1,5 @@
 package Persona;
-
+//Clase hija
 public class Docente extends Persona {
     public String facultadPertenece;
     public int horasAsignadas;
