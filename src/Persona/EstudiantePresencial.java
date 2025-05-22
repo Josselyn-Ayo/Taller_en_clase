@@ -23,6 +23,6 @@ public class EstudiantePresencial extends Estudiante {
     public void MostrarInformacionPersonal() {
         super.MostrarInformacionPersonal();
         System.out.println("Horas presenciales: " + hora_presencial);
-        System.out.println(" Horario: "+ horario);
+        System.out.println("Horario: "+ horario);
     }
 }

@@ -28,7 +28,7 @@ public class  Estudiante extends Persona {
         super.MostrarInformacionPersonal();
         System.out.println("Carrera: "+ carrera);
         System.out.println("Nivel: "+ nivel);
-        System.out.println(" Edad:" + CalcularEdad(2025 )+ "años");
+        System.out.println("Edad: " + CalcularEdad(2025 )+ " años");
 
 
     }

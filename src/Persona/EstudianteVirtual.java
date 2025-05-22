@@ -23,6 +23,6 @@ public class EstudianteVirtual extends Estudiante{
     public void MostrarInformacionPersonal() {
         super.MostrarInformacionPersonal();
         System.out.println("Plataforma: "+ plataforma);
-        System.out.println(" Tutor Virtual: " + tutor_Virtual);
+        System.out.println("Tutor Virtual: " + tutor_Virtual);
     }
 }
